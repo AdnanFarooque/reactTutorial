@@ -70,4 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 Website: https://reacttutorialapp89.herokuapp.com/
-https://thirsty-kare-4301fd.netlify.app/
+
+https://react-tutorial-app89.netlify.app/
